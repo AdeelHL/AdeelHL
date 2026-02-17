@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 I am a software engineer with an interest in backend systems and automation. 
+
 I enjoy building reliable, scalable services and working on systems that process and transform data efficiently.
+
+Currently, I am pursuing additional certifications in computer networks.
+
 
 ## Technologies & Tools I've used
 - **Languages:** Python, C/C++, JavaScript, SQL, TypeScript
