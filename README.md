@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a software engineer with an interest in backend systems and automation. 
+I am a computer science graduate with experience building backend systems, data pipelines, and automation tools. 
 
 I enjoy building reliable, scalable services and working on systems that process and transform data efficiently.
 
