@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a computer science graduate with experience building backend systems, data pipelines, and automation tools. 
+I am a computer science graduate with experience building data pipelines and automation tools, particularly in cybersecurity. 
 
 I enjoy building reliable, scalable services and working on systems that process and transform data efficiently.
 
@@ -8,7 +8,7 @@ Currently, I am pursuing additional certifications in computer networks.
 
 
 ## Technologies & Tools I've used
-- **Languages:** Python, C/C++, JavaScript, SQL, TypeScript
+- **Languages:** Python, C/C++, JavaScript, SQL
 - **Frameworks:** FastAPI, Node.js, React
 - **Security & Data:** Elasticsearch, Splunk, Wazuh
 - **Dev Tools:** Git, Linux, Docker (occasionally)
