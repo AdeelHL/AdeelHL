@@ -2,9 +2,7 @@
 
 I am a computer science graduate with experience building data pipelines and automation tools, particularly in cybersecurity. 
 
-I enjoy building reliable, scalable services and working on systems that process and transform data efficiently.
-
-Currently, I am pursuing additional certifications in computer networks.
+I enjoy building reliable and applicable services and working on systems that process and transform data efficiently.
 
 
 ## Technologies & Tools I've used
